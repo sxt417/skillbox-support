@@ -1,0 +1,22 @@
+# SkillBox
+
+> SkillBox is a free native macOS app by independent developer Tao for organizing local AI Skill files (SKILL.md). This is the product's public website. App Store ID: 6828314753.
+
+## Product facts
+- Platform: macOS 14 or later, Apple Silicon and Intel. No iOS, iPadOS or Windows app.
+- Free download. Local organization requires no SkillBox account or AI API key.
+- Scan folders authorized through macOS; read instructions and files; search, categorize, tag, favorite, write notes and mark My Creations.
+- Compare installation environments; distinguish missing access from missing files and content differences; review changes before applying.
+- Complete manual migration can include selected Skill files and organization. Organization-only export does not include files. No automatic cloud sync.
+- Does not execute Skill scripts or run AI models. Does not upload local files, paths, notes or library contents to the developer.
+- Optional public GitHub source checks are user-initiated network requests. GitHub receives normal connection information, such as IP addresses.
+- Third-party tool names describe local environments, not affiliation or guaranteed execution compatibility.
+
+## Official pages
+- [Product overview and FAQ](https://sxt417.github.io/skillbox-support/): Chinese product facts, six main functions, screenshots and download instructions.
+- [Support](https://sxt417.github.io/skillbox-support/support.html): Folder authorization, scanning, organization, migration and contact.
+- [Privacy policy](https://sxt417.github.io/skillbox-support/privacy.html): Local processing, permission bookmarks, exports and optional network requests.
+- [English product and press](https://sxt417.github.io/skillbox-support/press.html): Product story and original screenshots.
+- [Mac App Store](https://apps.apple.com/app/id6828314753): Authoritative download and currently available version. A newer version being prepared or reviewed is not yet available.
+
+Contact: Tao, sxt417@163.com. Product facts checked 2026-11-12. This optional index summarizes visible pages; it does not control crawler permissions or guarantee search inclusion.
